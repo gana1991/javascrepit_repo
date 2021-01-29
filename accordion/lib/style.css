@@ -1,0 +1,25 @@
+/* Add your styles here */
+div.mainBox{
+    margin: 50px 300px 50px 300px;
+    padding: 5px;
+    border: 1px solid black ;
+  }
+  h2{
+    margin: 5px;
+    padding: 5px 5px 5px 20px;
+    border: 1px solid black ;
+    background: lightgray;
+  }
+  #section1{
+    background: blue;
+  }
+  div.para{
+     margin: 20px;
+    display: none;
+  }
+  div#initPara{
+    display: block;
+  }
+
+  
+  

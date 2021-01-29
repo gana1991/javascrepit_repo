@@ -1,0 +1,8 @@
+class should be double quots, 
+do not right inline style, use span tag and give id for css
+<hr> should not be used
+
+Accordion
+
+h section header
+children parent sibling
